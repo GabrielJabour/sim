@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Ameo';
+    src: url('https://GabrielJabour.github.io/sim/Ameo%20Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ameo';
+    src: url('https://GabrielJabour.github.io/sim/Ameo%20Medium.woff2') format('woff2');
+    font-weight: 500; /* Assumindo que 'Medium' corresponde a um peso de 500 */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ameo';
+    src: url('https://GabrielJabour.github.io/sim/Ameo%20Light.woff2') format('woff2');
+    font-weight: 300; /* Assumindo que 'Light' corresponde a um peso de 300 */
+    font-style: normal;
+}
